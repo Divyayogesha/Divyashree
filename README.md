@@ -15,9 +15,11 @@ Hi, I'm Divyashree!
 
 🌱 &nbsp;Proficient in manual, API, and automation testing methodologies.
 
-✍️ &nbsp;roficient in utilizing testing tools such as Selenium, Postman, and Jira.
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✍️ &nbsp;Proficient in utilizing testing tools such as Selenium, Postman, and Jira
+.
+
 ✉️ &nbsp;You can shoot me an email at divyachandrashekar8@gmail.com I'll try to respond as soon as I can.\
+
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
