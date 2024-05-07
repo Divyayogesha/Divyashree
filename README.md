@@ -12,7 +12,9 @@ Hi, I'm Divyashree!
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Dedicated and detail-oriented Software Test Engineer with 2.5 of experience.
+
 🌱 &nbsp;Proficient in manual, API, and automation testing methodologies.
+
 ✍️ &nbsp;roficient in utilizing testing tools such as Selenium, Postman, and Jira.
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at divyachandrashekar8@gmail.com I'll try to respond as soon as I can.\
