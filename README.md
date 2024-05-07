@@ -41,7 +41,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Selenium](https://img.shields.io/badge/Selenium-Testing-green?style=flat-square&logo=selenium)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=sql)
-
+![Postman](https://img.shields.io/badge/Postman-Testing-orange?style=flat-square&logo=postman)
+![Jira](https://img.shields.io/badge/Jira-Project_Management-blue?style=flat-square&logo=jira)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
