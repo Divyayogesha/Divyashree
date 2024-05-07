@@ -44,12 +44,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-Feel free to reach out to me via email at [divyachandrashekar8@email.com](mailto:your@email.com) or connect with me on:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/yourusername)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyashree-c-391300258)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/Divyayogesha)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=flat-square&logo=instagram)](https://www.instagram.com/Divyayogesha)
+[![Google](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=google)](mailto:divyachandrashekar8@email.com)
 </p>
 
 
