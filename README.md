@@ -8,22 +8,14 @@ Hi, I'm Divyashree!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  
 </p>
 <hr/>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
-## 🔥 Streak Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashitanamdeo&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
 
 ## 🛠️ My Favorite Tools
 
@@ -45,14 +37,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Database
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+  
+   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    
 </p>
 
 ### 💻 Software and Tools
@@ -60,7 +50,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p>
    
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -100,4 +89,3 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="divyachandrashekar8@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@yashitanamdeo's Holopin board](https://holopin.me/yashitanamdeo)](https://holopin.io/@yashitanamdeo)
