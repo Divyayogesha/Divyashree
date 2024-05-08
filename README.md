@@ -56,22 +56,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 [![Google](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=google)](mailto:divyachandrashekar8@email.com)
 </p>
-![Banner](![Uploading image soft.jpg…]()
-)
+<p align="center">
+  <img src=C:\Users\yogeshaj\Downloads\software-tester-concept-illustration (1)>
+</p>
 
-# Project Name
 
-Brief description of your project.
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-...
 
 
 
