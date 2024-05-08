@@ -59,7 +59,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <p align="center">
  
-  <img src="C:\Users\yogeshaj\Pictures\8058227.jpg">
+  <img src="https://example.com/path/to/your/testing/image.png">
 </p>
 
 
