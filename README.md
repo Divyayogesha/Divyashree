@@ -57,7 +57,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 [![Google](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=google)](mailto:divyachandrashekar8@email.com)
 </p>
 <p align="center">
-  <img src=C:\Users\yogeshaj\Downloads\software-tester-concept-illustration (1)>
+  <img src="https://example.com/path/to/your/banner/image.png" alt="Banner">
 </p>
 
 
