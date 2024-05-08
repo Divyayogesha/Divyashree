@@ -57,7 +57,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 
 <p align="center">
-  <img src="https://placekitten.com/800/200" alt="Banner">
+ ![Banner](https://example.com/path-to-your-image.jpg)
 </p>
 
 
