@@ -56,7 +56,16 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 [![Google](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=google)](mailto:divyachandrashekar8@email.com)
 </p>
+## 🙋‍♀️ Let's Connect
 
+<p align="center">
+	
+	<a href="https://github.com/Divyayogesha" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/divyashree-c-391300258" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/Divyayogesha" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="divyachandrashekar8@email.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 
 
 <p align="center">
