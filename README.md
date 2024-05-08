@@ -60,7 +60,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 
 <p align="center">
-  <img src="C:\Users\yogeshaj\Downloads\software-tester-concept-illustration (1)\8058227.jpg" alt="Banner">
+  <img src="https://placekitten.com/800/200" alt="Banner">
 </p>
 
 
