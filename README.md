@@ -27,7 +27,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 ✉️ &nbsp;You can shoot me an email at divyachandrashekar8@gmail.com I'll try to respond as soon as I can.\
 
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/drive/my-drive) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1Vjm_ktzRYHqe_kroWBTMK8RH0ov0Koxo/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
